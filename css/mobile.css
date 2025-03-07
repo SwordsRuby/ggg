@@ -5,15 +5,16 @@
 }
 
 /* header */
+
+.announcement-text {
+    font-size: 14px;
+}
+
 .nav-link-active {
     display: none;
 }
 
 .nav-link-secondary {
-    display: none;
-}
-
-.cart-button {
     display: none;
 }
 
